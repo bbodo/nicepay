@@ -1,0 +1,15 @@
+body{
+    display : block;
+    width : 800px;
+    height : 1000px;
+    background-color: antiquewhite;
+    margin : auto;
+    border: 1px solid black;
+}
+
+#body_body{
+    height : 80%;
+    width : 100%;
+    border : 1px solid green;
+    border-collapse: collapse;
+}
